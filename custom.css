@@ -1,0 +1,41 @@
+.item.-on.-input_boolean .item-entity--icon {
+   color: #ffa600;
+}
+
+.item.-off.-input_boolean .item-entity--icon {
+   color: #636B75;
+}
+
+.item.-input_boolean .item-entity--icon.mdi-snowflake,
+.item .item-entity--icon.mdi-minus {
+   color: #00a1ff;
+}
+
+.item.-input_boolean .item-entity--icon.mdi-fire,
+.item .item-entity--icon.mdi-plus {
+   color: #ffa600;
+}
+
+.item .item-entity--icon,
+.item .item-entity--unit,
+.item .item-entity--value {
+   color: #636B75;
+}
+
+.item .item-title {
+   color: #636B75
+}
+
+.item .item-subtitle {
+   color: #8c96a5
+}
+
+.ng-scope .item.ng-scope {
+  background-color: #F7F8F9
+}
+
+.pages-menu.-left,
+.pages-menu.-bottom {
+  background-color: #636B75;
+  height: 80px;
+}
